@@ -4,7 +4,8 @@
 
 # For Maverick
 site_prefix = "/"
-template = "Galileo"
+template = "Kepler"
+#template = "Galileo"
 index_page_size = 10
 archives_page_size = 30
 fetch_remote_imgs = False
